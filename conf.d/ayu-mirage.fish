@@ -12,7 +12,7 @@ function enable_ayu_theme_mirage
     set --universal fish_color_param          CBCCC6 # ayu:common.fg        regular command parameters
     set --universal fish_color_quote          BAE67E # ayu:syntax.string    quoted blocks of text
     set --universal fish_color_redirection    D4BFFF # ayu:syntax.constant  IO redirections
-    set --universal fish_color_search_match   --background FFCC66 # ayu:syntax.accent    highlight history search matches and the selected pager item (must be a background)
+    set --universal fish_color_search_match   --background 4D5566 # ayu:common.ui    highlight history search matches and the selected pager item (must be a background)
     set --universal fish_color_selection      FFCC66 # ayu:syntax.accent    when selecting text (in vi visual mode)
 
     # color for fish default prompts item
