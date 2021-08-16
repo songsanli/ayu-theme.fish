@@ -4,7 +4,7 @@
 
 ## Installation
 
-    fisher install edouard-lopez/ayu-theme.fish
+    fisher install songsanli/ayu-theme.fish
 
 ## Configuration
 
